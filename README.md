@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am going to add stuff to this, I promise
 
 <!--
 **Ninjago77/ninjago77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
