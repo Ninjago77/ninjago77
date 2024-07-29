@@ -57,7 +57,7 @@ A Web Simulation for my Chemistry 11 Project. The simulation is of J. J. Thomson
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height=50>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" height=50>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-## Plum Pudding [![Static Badge](https://img.shields.io/badge/Click%20to%20view-Code-black?style=plastic)](https://github.com/qcoral/apocalypse-project-2024)
+## Dual Zombie Defence HQ [![Static Badge](https://img.shields.io/badge/Click%20to%20view-Code-black?style=plastic)](https://github.com/qcoral/apocalypse-project-2024)
 ![image](https://github.com/user-attachments/assets/49640155-5867-402e-ba8b-083df5f133c7)
 Built for the Hack Club Hackathon Apocalypse. <br> <br>
 <img src="https://img.shields.io/badge/Built%20Using-%3A%20-blue?style=flat-square" height=50>
