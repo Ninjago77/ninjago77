@@ -56,6 +56,7 @@ A Web Simulation for my Chemistry 11 Project. The simulation is of J. J. Thomson
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" height=50>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height=50>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" height=50>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://raw.githubusercontent.com/mrdoob/three.js/38bf5f47a8c01a1d12d16a41b4097dc9ee31daad/files/icon.svg" height=50>](https://threejs.org/)
 
 ## Dual Zombie Defence HQ [![Static Badge](https://img.shields.io/badge/Click%20to%20view-Code-black?style=plastic)](https://github.com/qcoral/apocalypse-project-2024)
 ![image](https://github.com/user-attachments/assets/49640155-5867-402e-ba8b-083df5f133c7)
