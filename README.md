@@ -50,6 +50,13 @@ A Web Game for my Social Science 10 Project. The game is about solving puzzles r
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" height=50>](https://www.typescriptlang.org/)
 [<img src="https://kaboomjs.com/static/img/k.png" height=50>](https://kaboomjs.com/)
 
+## Plead with the Dungeon [![Static Badge](https://img.shields.io/badge/Click%20to%20view-Code-black?style=plastic)](https://github.com/Ninjago77/pleadwiththedungeon) [![Static Badge](https://img.shields.io/badge/Click%20to%20view-Project-green?style=plastic)](https://pleadwiththedungeon.shantech.pro/)
+A Web Game for HackJPS 2024. The game is a mini-dungeon crawler about racing against the clock. <br><br>
+<img src="https://img.shields.io/badge/Built%20Using-%3A%20-blue?style=flat-square" height=50>
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" height=50>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" height=50>](https://www.typescriptlang.org/)
+[<img src="https://kaboomjs.com/static/img/k.png" height=50>](https://kaboomjs.com/)
+
 ## Plum Pudding [![Static Badge](https://img.shields.io/badge/Click%20to%20view-Code-black?style=plastic)](https://github.com/Ninjago77/JJPudding) [![Static Badge](https://img.shields.io/badge/Click%20to%20view-Project-green?style=plastic)](https://plumpudding.shantech.pro/)
 A Web Simulation for my Chemistry 11 Project. The simulation is of J. J. Thomson's Plum Pudding Atomic Model. //btw I got EXT <br><br>
 <img src="https://img.shields.io/badge/Built%20Using-%3A%20-blue?style=flat-square" height=50>
